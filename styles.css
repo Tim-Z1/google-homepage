@@ -1,0 +1,27 @@
+.glogo {
+    display: flex;    
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 187px;
+}
+
+form {
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+
+}
+
+.link {
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+}

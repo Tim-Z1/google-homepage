@@ -1,0 +1,1 @@
+22/3/2021 12:00pm Created Git Repository google-homepage. This is the start of me attempting to recreate Google homepage, an assignment from The Odin Project. 
